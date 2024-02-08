@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeckyb
+- 👋 Hi, I’m Becky
 - 👀 I’m interested in computer engineering and programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on super cool projects
